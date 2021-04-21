@@ -15,3 +15,11 @@ Notebook link: [https://aakosm.github.io/datavisualization_workshop_baggs21/sess
 
 Notebook link: [https://aakosm.github.io/datavisualization_workshop_baggs21/session_2.html](https://aakosm.github.io/datavisualization_workshop_baggs21/session_2.html)
 
+## Session 3
+
+Notebook link: [https://aakosm.github.io/datavisualization_workshop_baggs21/session_3.html](https://aakosm.github.io/datavisualization_workshop_baggs21/session_3.html)
+
+## Session 4
+
+Notebook link: [https://aakosm.github.io/datavisualization_workshop_baggs21/session_4.html](https://aakosm.github.io/datavisualization_workshop_baggs21/session_4.html)
+
